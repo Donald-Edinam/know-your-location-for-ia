@@ -5,6 +5,7 @@ import Header from './components/Header';
 import ExamForm from './components/ExamForm';
 import ExamDetails from './components/ExamDetails';
 import Footer from './components/Footer';
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   const [examData, setExamData] = useState(null);
@@ -44,6 +45,7 @@ function App() {
 
   return (
     <div className="app">
+      <Analytics />
       <Header />
       <main className="container">
         <ExamForm onSubmit={fetchExamSchedule} />
