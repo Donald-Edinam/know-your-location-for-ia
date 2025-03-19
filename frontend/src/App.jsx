@@ -18,7 +18,7 @@ function App() {
     
     try {
       // API base URL - would come from environment variables in a real app
-      const API_URL = import.meta.env.REACT_APP_API_URL || 'http://localhost:5000/api';
+      const API_URL = "https://know-your-location-for-ia-production.up.railway.app/api";
       
       // Build URL with course query parameter if provided
       const url = course 
