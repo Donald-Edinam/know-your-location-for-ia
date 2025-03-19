@@ -1,0 +1,416 @@
+{
+    "TESS101": [
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "INFORMATION STUDIES LAB",
+        "examHall": "Dept. of Information Studies - Lab 2",
+        "batch": "Batch 1",
+        "indexRange": [11357240, 22263441],
+        "time": "8:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "J. R. A ICT Centre",
+        "examHall": "Next to Kofi Dra Conf",
+        "batch": "Batch 1",
+        "indexRange": [22263601, 22271216],
+        "time": "8:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 3 - Main",
+        "batch": "Batch 2",
+        "indexRange": [22271270, 22305209],
+        "time": "9:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4A",
+        "batch": "Batch 2",
+        "indexRange": [22305348, 22308084],
+        "time": "9:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4B",
+        "batch": "Batch 2",
+        "indexRange": [22308089, 22310318],
+        "time": "9:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGBS LAB",
+        "examHall": "UGBS : Graduate School Lab-Opp. Presec",
+        "batch": "Batch 2",
+        "indexRange": [22310492, 22369160],
+        "time": "9:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "INFORMATION STUDIES LAB",
+        "examHall": "Dept. of Information Studies - Lab 1",
+        "batch": "Batch 2",
+        "indexRange": [22369214, 22370760],
+        "time": "9:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "INFORMATION STUDIES LAB",
+        "examHall": "Dept. of Information Studies - Lab 2",
+        "batch": "Batch 2",
+        "indexRange": [22370830, 22372355],
+        "time": "9:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "J. R. A ICT Centre",
+        "examHall": "Next to Kofi Dra Conf",
+        "batch": "Batch 2",
+        "indexRange": [22372580, 22374689],
+        "time": "9:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 3 - Main",
+        "batch": "Batch 3",
+        "indexRange": [22374948, 22382300],
+        "time": "10:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4A",
+        "batch": "Batch 3",
+        "indexRange": [22382301, 22383810],
+        "time": "10:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4B",
+        "batch": "Batch 3",
+        "indexRange": [22383938, 22385951],
+        "time": "10:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGBS LAB",
+        "examHall": "UGBS : Graduate School Lab-Opp. Presec",
+        "batch": "Batch 3",
+        "indexRange": [22386349, 22392353],
+        "time": "10:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "INFORMATION STUDIES LAB",
+        "examHall": "Dept. of Information Studies - Lab 1",
+        "batch": "Batch 3",
+        "indexRange": [22392370, 22393263],
+        "time": "10:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "INFORMATION STUDIES LAB",
+        "examHall": "Dept. of Information Studies - Lab 2",
+        "batch": "Batch 3",
+        "indexRange": [22393347, 22394803],
+        "time": "10:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "J. R. A ICT Centre",
+        "examHall": "Next to Kofi Dra Conf",
+        "batch": "Batch 3",
+        "indexRange": [22394866, 22397067],
+        "time": "10:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 3 - Main",
+        "batch": "Batch 4",
+        "indexRange": [22397224, 22404875],
+        "time": "11:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4A",
+        "batch": "Batch 4",
+        "indexRange": [22405090, 22407606],
+        "time": "11:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4B",
+        "batch": "Batch 4",
+        "indexRange": [22407609, 22409822],
+        "time": "11:30",
+        "examDate": "20/3/2025"
+      },
+      {
+        "course": "TESS101",
+        "paperTitle": "FOUNDATIONS OF EDUCATION",
+        "centre": "UGBS LAB",
+        "examHall": "UGBS : Graduate School Lab-Opp. Presec",
+        "batch": "Batch 4",
+        "indexRange": [22409846, 22416336],
+        "time": "11:30",
+        "examDate": "20/3/2025"
+      }
+    ],
+    "TESS103": [
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGBS LAB",
+        "examHall": "UGBS : Graduate School Lab-Opp. Presec",
+        "batch": "Batch 1",
+        "indexRange": [11357240, 22300202],
+        "time": "11:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "INFORMATION STUDIES LAB",
+        "examHall": "Dept. of Information Studies - Lab 1",
+        "batch": "Batch 1",
+        "indexRange": [22300249, 22301735],
+        "time": "11:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "INFORMATION STUDIES LAB",
+        "examHall": "Dept. of Information Studies - Lab 2",
+        "batch": "Batch 1",
+        "indexRange": [22302003, 22303237],
+        "time": "11:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "J. R. A ICT Centre",
+        "examHall": "Next to Kofi Dra Conf. C",
+        "batch": "Batch 1",
+        "indexRange": [22303250, 22305027],
+        "time": "11:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 3 - Main",
+        "batch": "Batch 2",
+        "indexRange": [22305065, 22332187],
+        "time": "12:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4A",
+        "batch": "Batch 2",
+        "indexRange": [22333268, 22368361],
+        "time": "12:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4B",
+        "batch": "Batch 2",
+        "indexRange": [22368363, 22370830],
+        "time": "12:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGBS LAB",
+        "examHall": "UGBS : Graduate School Lab-Opp. Presec",
+        "batch": "Batch 2",
+        "indexRange": [22370836, 22377780],
+        "time": "12:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "INFORMATION STUDIES LAB",
+        "examHall": "Dept. of Information Studies - Lab 1",
+        "batch": "Batch 2",
+        "indexRange": [22377797, 22379192],
+        "time": "12:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "INFORMATION STUDIES LAB",
+        "examHall": "Dept. of Information Studies - Lab 2",
+        "batch": "Batch 2",
+        "indexRange": [22379203, 22379923],
+        "time": "12:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "J. R. A ICT Centre",
+        "examHall": "Next to Kofi Dra Conf. C",
+        "batch": "Batch 2",
+        "indexRange": [22380079, 22381966],
+        "time": "12:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 3 - Main",
+        "batch": "Batch 3",
+        "indexRange": [22382005, 22388877],
+        "time": "13:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4A",
+        "batch": "Batch 3",
+        "indexRange": [22388940, 22391303],
+        "time": "13:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4B",
+        "batch": "Batch 3",
+        "indexRange": [22391371, 22393347],
+        "time": "13:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGBS LAB",
+        "examHall": "UGBS : Graduate School Lab-Opp. Presec",
+        "batch": "Batch 3",
+        "indexRange": [22393640, 22399854],
+        "time": "13:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "INFORMATION STUDIES LAB",
+        "examHall": "Dept. of Information Studies - Lab 1",
+        "batch": "Batch 3",
+        "indexRange": [22399924, 22401266],
+        "time": "13:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "INFORMATION STUDIES LAB",
+        "examHall": "Dept. of Information Studies - Lab 2",
+        "batch": "Batch 3",
+        "indexRange": [22401288, 22402188],
+        "time": "13:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "J. R. A ICT Centre",
+        "examHall": "Next to Kofi Dra Conf. C",
+        "batch": "Batch 3",
+        "indexRange": [22402345, 22404241],
+        "time": "13:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 3 - Main",
+        "batch": "Batch 4",
+        "indexRange": [22404250, 22411126],
+        "time": "14:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4A",
+        "batch": "Batch 4",
+        "indexRange": [22411129, 22413296],
+        "time": "14:30",
+        "examDate": "21/3/2025"
+      },
+      {
+        "course": "TESS103",
+        "paperTitle": "PSYCHOLOGY OF LEARNING IN",
+        "centre": "UGCS LAB CENTRE",
+        "examHall": "UGCS Lab 4B",
+        "batch": "Batch 4",
+        "indexRange": [22413337, 22416336],
+        "time": "14:30",
+        "examDate": "21/3/2025"
+      }
+    ]
+  }
